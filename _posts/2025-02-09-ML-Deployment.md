@@ -4,6 +4,7 @@ title: "ML Deployment Notes"
 date: 2025-02-08 00:00:00
 author: "Roopa G"
 categories: ML
+description: "Notes of Chapter 7. Model Deployment and Prediction Service from Designing Machine Learning Systems by Chip Huyen"
 ---
 
 # ML Deployment
