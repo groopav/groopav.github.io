@@ -1,8 +1,4 @@
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
-minima:
-  skin: dark
+theme: jekyll-theme-minimal
 title: Roopa G
 description: Bookmark this to keep an eye on my project updates!
 include: ['_posts/']
