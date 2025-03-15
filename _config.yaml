@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 title: Roopa G
 description: Software Engineer | Public Speaker | Bibliophile
-include: ['_posts/']
+include: ['_posts/', '_data/']
