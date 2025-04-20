@@ -18,3 +18,6 @@ layout: default
   <p>{{ post.description }}</p>
   <p><em>{{ post.date | date: "%B %d, %Y" }}</em></p>
 {% endfor %}
+
+# Reading
+[Books 2025](/assets/Books2025.html)
