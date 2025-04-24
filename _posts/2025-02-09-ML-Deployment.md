@@ -17,11 +17,11 @@ description: "Notes of Chapter 7. Model Deployment and Prediction Service from D
 
 ## Machine Learning Deployment Myths
 
-![ML Deployment Myths](https://raw.githubusercontent.com/groopav/random3900.github.io/refs/heads/main/images/MLDeploymentMyths.png)
+![ML Deployment Myths](https://raw.githubusercontent.com/groopav/groopav.github.io/refs/heads/main/images/MLDeploymentMyths.png)
 
 ## Batch Prediction Versus Online Prediction
 
-![Prediction](https://raw.githubusercontent.com/groopav/random3900.github.io/refs/heads/main/images/Prediction.png)
+![Prediction](https://raw.githubusercontent.com/groopav/groopav.github.io/refs/heads/main/images/Prediction.png)
 
 Two components are required to improve online prediction latency:
 
@@ -30,4 +30,4 @@ Two components are required to improve online prediction latency:
 
 ## Optimization
 
-![Optimization](https://raw.githubusercontent.com/groopav/random3900.github.io/refs/heads/main/images/Optimization.png)
+![Optimization](https://raw.githubusercontent.com/groopav/groopav.github.io/refs/heads/main/images/Optimization.png)
